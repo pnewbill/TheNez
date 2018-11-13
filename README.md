@@ -1,2 +1,0 @@
-# TheNez
-practice with git
